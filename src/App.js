@@ -15,6 +15,9 @@ function App() {
 	<p>
 	  and Rangers
 	</p>
+	<p>
+	  but not the Islanders or the Devils
+	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
